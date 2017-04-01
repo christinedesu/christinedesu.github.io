@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>christine です( ⸝⸝•ᴗ•⸝⸝ )੭⁾</title>
+    <description>an archive of thoughts, notes and personal stories</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Visceral, Behavioral, and Reflective</title>
+        
+        
+          <description>&lt;p&gt;&lt;em&gt;First of all, I just want to quickly mention that Dan Norman’s “The Design of Everyday Things” has made a great impact  on me as a designer. Not only did it gave me a new vision and sensibility to all the things around me, it also influenced my decision in learning more about Psychology&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 19 Sep 2015 02:30:00 -0700</pubDate>
+        <link>http://localhost:4000/2015/visceral-behavioral-reflective/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/visceral-behavioral-reflective/</guid>
+      </item>
+    
+      <item>
+        <title>Reflections on 'The Shape of Design'</title>
+        
+        
+          <description>&lt;p&gt;I’ve been reading Frank Chimero’s “The Shape of Design” and I feel so moved by the first few chapters of it. Some of his thoughts are an eye-opener for a student like me that I’m pretty sure I’ll go back and keep on rereading every chapters of this book from now on.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 24 Jun 2015 19:05:00 -0700</pubDate>
+        <link>http://localhost:4000/2015/thoughts-on-'the-shape-of-design'/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/thoughts-on-'the-shape-of-design'/</guid>
+      </item>
+    
+      <item>
+        <title>Nobody tells this to beginners</title>
+        
+        
+          <description>&lt;p&gt;Yesterday, I saw this motivational video , which according to the owner, is a quote from Ira Glass. If you haven’t clicked on the link and/or decided not to, it goes on like this:&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 13 Jan 2015 01:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2015/nobody-tells-this-to-beginners/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/nobody-tells-this-to-beginners/</guid>
+      </item>
+    
+      <item>
+        <title>From Nebraska to California</title>
+        
+        
+          <description>&lt;p&gt;It was a Tuesday night, my dearest friends and I went to a Chinese restaurant for our last dinner together. I ate less than I usually do for I don’t want to have an upset stomach for the following day. It was followed by a sleep over at one of their houses, and was less than usual too. I woke up very early that day with heavy eyes, having only 3 hours of sleep, stepped out of the door of their house looking at their room’s window where they were standing and waving goodbye. It was sad and cold, colder than the winter breeze that added to such a gloomy atmosphere.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 03 Feb 2012 17:57:00 -0800</pubDate>
+        <link>http://localhost:4000/2012/from-nebraska-to-california/</link>
+        <guid isPermaLink="true">http://localhost:4000/2012/from-nebraska-to-california/</guid>
+      </item>
+    
+      <item>
+        <title>The Higher Key</title>
+        
+        
+          <description>&lt;p&gt;&lt;img src=&quot;/assets/images/piano.jpg&quot; /&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 05 Dec 2011 23:23:00 -0800</pubDate>
+        <link>http://localhost:4000/2011/the-higher-key/</link>
+        <guid isPermaLink="true">http://localhost:4000/2011/the-higher-key/</guid>
+      </item>
+    
+  </channel>
+</rss>

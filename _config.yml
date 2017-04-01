@@ -1,0 +1,44 @@
+name: christine です( ⸝⸝•ᴗ•⸝⸝ )੭⁾
+description: an archive of thoughts, notes and personal stories
+
+
+aboutPage: true
+
+markdown: kramdown
+highlighter: rouge
+
+paginate: 20
+baseurl: /
+domain_name: ''
+google_analytics: 'UA-XXXXXXXX-X'
+disqus: false
+disqus_shortname: 'your-disqus-shortname'
+
+# Details for the RSS feed generator
+url:            'http://your-blog-url.example.com'
+author:         'Christine Tapawan'
+authorTwitter:  'ciijpop'
+
+permalink:       /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
+
+gems: [jekyll-paginate]

@@ -1,0 +1,13 @@
+---
+title:  "Nobody tells this to beginners"
+date:   2015-01-13 09:00:00
+description: Inspired by Ira Glass' quote, mastering design requires a lot of time, effort and a series of iterations. But it’s the only way. Gotta love the process. :)
+---
+
+Yesterday, I saw this motivational video , which according to the owner, is a quote from Ira Glass. If you haven’t clicked on the link and/or decided not to, it goes on like this:
+
+<em>Nobody tells this to people who are beginners, I wish someone told me. All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple of years you make stuff, it’s just not that good. It’s trying to be good. It has potential. But it’s not. But your taste.. your taste is still killer, and your taste is why your work disappoints you. A lot of people never get past this phase. They quit. Most people I know who do interesting creative work went through years of this. Our work doesn’t have this special thing that we want it to have. We all go through this. And if you’re just starting out or you are still on this phase, you gotta know it’s normal and the most important thing you can do is do a lot of work. Put yourself on a deadline, so that every week you will finish one project. It is only by going through a volume of work that you will close that gap. And your work will be as good as your ambitions. It’s gonna take a while. It’s normal to take a while. You’ve just got to fight your way through. Make 2015 your best year yet.</em>
+
+Based on my personal experience, I can say that this post is truly on point with beginner designers today..well atleast I’m one of those who can relate. I’ve been through times when even though I love designing, I become really disappointed with my incompetence to the point where I started doubting my decision of pursuing design. It’s frustrating how each time I wanted to design something, my hands can’t seem to reproduce my vision that I always end up executing mediocre pieces of work. This agony went on for a long time until I realized that the only way for me to be able to reach my standards is to just keep on designing. Designing is a tough craft to master. It not only requires aesthetics, but also problem solving skills and of course the mastery of tools. I learned that “skill” is something I need to earn through hardwork, and not a package that comes with having a good taste (talent). Up to now, I still feel the need to improve my skills and up my game, and when I do, I design. It requires a lot of time, effort and a series of iterations. But it’s the only way. Gotta love the process.
+
+<strong># your passion is what will get you through it</strong>
